@@ -1,1 +1,3 @@
 # restaurant-page
+
+Hey everyone! I'm back building another JavaScript project for the Odin Project, yay! Today, I will be coding up a restaurant page whose contents will be changed dynamically through the use of JavaScript DOM manipulation. Additionally, I will be using Webpack in this project to bundle up all of my project's modules and assets, such as images, styling, and programming files. As always, all media used in this project that are not my own will be linked below, make sure to show the creators some love! And with that said, thank you for viewing this repo and I hope you enjoy this project!
