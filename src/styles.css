@@ -56,6 +56,28 @@ header, footer{
     height: 300px;
     border: 2px solid black;
     border-radius: .5rem;
+    background-size: cover;
+    background-position: -3rem;
+    filter: grayscale(85%);
+    background-color: rgba(102, 51, 153, 0.5);
+    mix-blend-mode: multiply;
+}
+
+.items-container :first-child {
+    background-image: url('./assets/hotdog-dish.webp');
+
+}
+
+.items-container :nth-child(2) {
+    background-image: url("./assets/banana-ham-dish.webp");
+}
+
+.items-container :nth-child(3) {
+    background-image: url("./assets/tuna-dish.webp");
+}
+
+.items-container :last-child {
+    background-image: url('./assets/salad-dish.webp');
 }
 
 nav {
