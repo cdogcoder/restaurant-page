@@ -79,6 +79,7 @@ header, footer{
     filter: grayscale(85%);
     background-color: rgba(102, 51, 153, 0.5);
     mix-blend-mode: multiply;
+    background-position: center;
 }
 
 .items-container :first-child {
